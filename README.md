@@ -1,2 +1,2 @@
-# react-redux
+# react&redux
 React & Redux components built for training
